@@ -6,7 +6,7 @@
 #include <list>
 #include <assert.h>
 #include <queue>
-#include "wordGrpah.h"
+#include "wordGraph.h"
 
 using namespace std;
 
